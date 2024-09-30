@@ -1,0 +1,44 @@
+'#FF5733',  # Bright Red
+'#33FF57',  # Bright Green
+'#3357FF',  # Bright Blue
+'#FF33A8',  # Bright Pink
+'#FFBD33',  # Bright Orange
+'#75FF33',  # Bright Lime Green
+'#33FFF6',  # Bright Cyan
+'#FF33FF',  # Bright Magenta
+'#FF3396',  # Bright Rose
+'#FF3380',  # Bright Fuchsia
+'#80FF33',  # Bright Yellow-Green
+'#FF3333',  # Bright Scarlet
+'#33FF33',  # Bright Neon Green
+'#3399FF',  # Bright Sky Blue
+'#FF6633',  # Bright Coral
+'#33FFCC',  # Bright Aquamarine
+'#FF33CC',  # Bright Hot Pink
+'#FF9933',  # Bright Saffron
+'#33CCFF',  # Bright Turquoise
+'#33FF99'   # Bright Mint Green
+
+
+
+# list of contrasting bright colors (no reds or pinks)
+'#33FF57',  # Bright Green
+'#3357FF',  # Bright Blue
+'#FFBD33',  # Bright Orange
+'#75FF33',  # Bright Lime Green
+'#33FFF6',  # Bright Cyan
+'#80FF33',  # Bright Yellow-Green
+'#33FF33',  # Bright Neon Green
+'#3399FF',  # Bright Sky Blue
+'#FF6633',  # Bright Coral (mild orange)
+'#33FFCC',  # Bright Aquamarine
+'#FF9933',  # Bright Saffron (Yellow-Orange)
+'#33CCFF',  # Bright Turquoise
+'#33FF99',  # Bright Mint Green
+'#FFBD00',  # Bright Gold
+'#FFFF33',  # Bright Yellow
+'#FF6600',  # Bright Tangerine
+'#0066FF',  # Bright Royal Blue
+'#00CCFF',  # Bright Electric Blue
+'#00FF99',  # Bright Sea Green
+'#0099FF'   # Bright Azure
